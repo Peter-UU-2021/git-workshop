@@ -33,7 +33,7 @@
 #' @importFrom phyloseq sample_data
 #' @importFrom phyloseq sample_sums
 
-## EVEN WAT VERENDEREN
+## EVEN WAT VERANDEREN was een TIKFOUT!!!
 plotbar_TopPerSample <- function (ps, top = 10, relatief = TRUE, taxrank = "Species",
           taxfill = "Genus", output = "graph", x = "x_names", legend.position="right",
           statistics = FALSE, GS = TRUE, angle = 0) {
